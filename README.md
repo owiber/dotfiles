@@ -1,5 +1,7 @@
 # Mathias’s dotfiles
 
+Bloop
+
 ## Installation
 
 ### Using Git and the bootstrap script
