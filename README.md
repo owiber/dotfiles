@@ -2,6 +2,8 @@
 
 Bloop
 
+Bloop 2
+
 ## Installation
 
 ### Using Git and the bootstrap script
